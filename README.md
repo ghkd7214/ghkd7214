@@ -1,6 +1,6 @@
 
 
-<h3 align="center">tech stack</div> 
+<h2 align="center">tech stack</div> 
 
 <div align="center">
   <a herf="https://github.com/ghkd7214/PYTHON/tree/master/study"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
