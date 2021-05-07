@@ -18,6 +18,3 @@
 
 #### project   
 
-
-<a href="https://github.com/ghkd7214/PYTHON/tree/master/study"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/ghkd7214/PYTHON/tree/master/study"/></a>
-
