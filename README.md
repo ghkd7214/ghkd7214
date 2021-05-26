@@ -15,7 +15,3 @@
   <a href="https://github.com/ghkd7214/WEB"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/ghkd7214/WEB"/></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </div>
-
-   
- 
-
